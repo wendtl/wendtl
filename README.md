@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hello Friends :eyes:
 
+**I'm Logan** - I write code, solve problems, and keep things simple. Let's build something :handshake:
+
+### :thinking:
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=obsidian,notion)](https://skillicons.dev)
 <!--
 **wendtl/wendtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
